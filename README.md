@@ -4,6 +4,12 @@ Standalone **React + Vite** mockup for a richer **“Add charts to view”** exp
 
 **Example remote:** [github.com/Pragati5-DEBUG/mockupcbio](https://github.com/Pragati5-DEBUG/mockupcbio) (push this folder as the repo root if you use that project).
 
+## Screenshot
+
+Mock summary grid with **Add charts** panel; **X vs Y** tab selected, hover highlight on a tile.
+
+![Charts menu prototype — grid and add-charts panel](docs/screenshot.png)
+
 ## Prerequisites
 
 - **Node.js** 18+ (LTS recommended)
